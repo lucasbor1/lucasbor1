@@ -23,7 +23,7 @@
 
 ## 🚀 Projetos Destacados
 
-- 🔢 **[Calculadora Android - Kotlin](https://github.com/lucas123/calculadorakotlin)**: Um aplicativo simples para explorar o desenvolvimento em Kotlin.
+- 🔢 **[Calculadora Android - Kotlin](https://github.com/lucasbor1/CalculadoraKotlin)**: Um aplicativo simples para explorar o desenvolvimento em Kotlin.
 - 📱 **[Aplicativo Trilhar](https://github.com/lucasbor1/Projeto-Trilhar)**: Aplicativo de educação financeira em Java com autenticação via Google, cadastro de despesas e relatórios em gráficos.
 - 🌐 **[Aplicação Web](https://github.com/lucasbor1/prova-Java-Script)**: Projeto que combina Spring Boot no back-end com HTML, CSS e JavaScript no front-end.
 
