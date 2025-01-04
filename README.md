@@ -15,8 +15,8 @@
 
   <p><strong>🌍 Localização:</strong> Goiânia, Goiás</p>
   <p><strong>🎓 Formação:</strong> Análise e Desenvolvimento de Sistemas</p>
-  <p><strong>🚀 Carreira:</strong> Aspirante a Desenvolvedor <strong>Full-Stack</strong>, sempre aprendendo e evoluindo.</p>
-  <p><strong>💼 Disponível para:</strong> Desenvolvimento <strong>Android</strong> e <strong>Full-Stack</strong>.</p>
+  <p><strong>🚀 Carreira:</strong> Desenvolvedor <strong>Full-Stack Jr</strong>, sempre aprendendo e evoluindo.</p>
+  <p><strong>💼 Disponível para:</strong> Desenvolvimento <strong>Full-Stack</strong> e <strong>Android</strong>.</p>
 </div>
 
 ---
